@@ -1,0 +1,37 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ project files
+.bluej/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA project files
+.idea/
+$RECYCLE.BIN
+
+# Eclipse project files
+.classpath
+.project
+
+# NetBeans project files
+nbproject/
+
+# Gradle specific
+.gradle/
+build/
+
+# Maven specific
+target/
+
+# Visual Studio Code (VSCode) workspace settings
+.vscode/
